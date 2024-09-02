@@ -10,19 +10,19 @@ En este ejercicio, nuestro objetivo es demostrar cómo Azure Data Factory puede 
 
 ## 🛠️Recursos Utilizados
 
-📌Azure Data Factory: Servicio de integración de datos en la nube que permite crear, programar y administrar pipelines de datos.
-📌Blob Storage: Almacenamiento de objetos en la nube para almacenar grandes volúmenes de datos no estructurados.
-📌Data Lake: Almacenamiento optimizado para grandes volúmenes de datos, diseñado para análisis de Big Data y procesamiento a gran escala.
+- 📌Azure Data Factory: Servicio de integración de datos en la nube que permite crear, programar y administrar pipelines de datos.
+- 📌Blob Storage: Almacenamiento de objetos en la nube para almacenar grandes volúmenes de datos no estructurados.
+- 📌Data Lake: Almacenamiento optimizado para grandes volúmenes de datos, diseñado para análisis de Big Data y procesamiento a gran escala.
 
 ## 🚀Pasos del Desarrollo
 
-📌Creación del Grupo de Recursos
-📌Configuración de Blob Storage
-📌Configuración del Data Lake
-📌Creación de Azure Data Factory
-📌Configuración de Servicios Linkeados
-📌Creación de Datasets
-📌Desarrollo del Pipeline de Copia
+- 📌Creación del Grupo de Recursos
+- 📌Configuración de Blob Storage
+- 📌Configuración del Data Lake
+- 📌Creación de Azure Data Factory
+- 📌Configuración de Servicios Linkeados
+- 📌Creación de Datasets
+- 📌Desarrollo del Pipeline de Copia
 
 ## Desarrollo
 
